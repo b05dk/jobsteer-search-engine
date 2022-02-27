@@ -1,6 +1,6 @@
 # jobsteer
 
-A new Flutter project.
+Jobsteer Jobs Search Engine
 
 ## Getting Started
 
